@@ -1,6 +1,7 @@
 # HEK-8bit-MixTape-Workshop
 
-
+All info is on the SGMK wiki: 
+http://wiki.sgmk-ssam.ch/index.php?title=HEK_-_8bit_MixTape_Workshop
 
 # Background -> the Demsoscene
 Viznut's One-liner philosophies
